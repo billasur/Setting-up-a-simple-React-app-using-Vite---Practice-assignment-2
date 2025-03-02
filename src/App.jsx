@@ -10,7 +10,7 @@ function App() {
         </h1>
         <h2>
           <a href='mailto:prahalad.singh.s70@kalvium.community?subject=Contacting&body=Hello, I want to contact you about.. '>
-          Contact me
+          Contact me now
           </a>
         </h2>
       </div>
